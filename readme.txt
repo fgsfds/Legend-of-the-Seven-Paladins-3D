@@ -1,5 +1,5 @@
 ==========================================================================
-Rock'n'Shaolin: Legend of the Seven Paladins 3D (搖滾少林系列 七俠五義3D)
+Rock'n'Shaolin: Legend of the Seven Paladins 3D (搖滾少林系列之 七俠五義3D)
 ==========================================================================
 
 Version:                   1.0
@@ -14,7 +14,7 @@ Original release date:     1994
 ABOUT
 ==========================================================================
 
-  Legend of the Seven Paladins 3D ("搖滾少林系列 七俠五義3D",
+  Legend of the Seven Paladins 3D ("搖滾少林系列之 七俠五義3D",
 literally "Rock'n'Roll Shaolin Series: The Seven Heroes and Five Gallants 3D")
 is a Taiwanese game made by a company named Accend. 3D Realms was negotiating
 a deal with the Asian company for their Build Engine, but according to
