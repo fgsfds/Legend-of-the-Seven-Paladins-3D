@@ -2,8 +2,8 @@
 Rock'n'Shaolin: Legend of the Seven Paladins 3D (搖滾少林系列之 七俠五義3D)
 ==========================================================================
 
-Version:                   1.0
-Release Date:              22.09.2019
+Version:                   1.1
+Release Date:              25.09.2019
 Author:                    fgsfds (https://twitter.com/fgsfds228)
 
 Original developer:        Accend Inc.
@@ -76,3 +76,18 @@ CREDITS
 
 Translation and graphics by fgsfds
 Additional translation by tenyuhuang
+
+
+==========================================================================
+CHANGELOG
+==========================================================================
+
+Version 1.1 (25.09.2019)
+---------------------------
+* Logo kerning fix
+* DOSBox version replaced with 0.74-3 to fix the crash when making screenshots
+
+
+Version 1.0 (22.09.2019)
+---------------------------
+> Initial release
